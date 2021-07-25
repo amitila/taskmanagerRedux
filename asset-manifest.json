@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/taskmanagerRedux/static/css/main.75c3000b.chunk.css",
+    "main.js": "/taskmanagerRedux/static/js/main.ab61817d.chunk.js",
+    "main.js.map": "/taskmanagerRedux/static/js/main.ab61817d.chunk.js.map",
+    "runtime-main.js": "/taskmanagerRedux/static/js/runtime-main.8cea363b.js",
+    "runtime-main.js.map": "/taskmanagerRedux/static/js/runtime-main.8cea363b.js.map",
+    "static/js/2.122b209e.chunk.js": "/taskmanagerRedux/static/js/2.122b209e.chunk.js",
+    "static/js/2.122b209e.chunk.js.map": "/taskmanagerRedux/static/js/2.122b209e.chunk.js.map",
+    "index.html": "/taskmanagerRedux/index.html",
+    "static/css/main.75c3000b.chunk.css.map": "/taskmanagerRedux/static/css/main.75c3000b.chunk.css.map",
+    "static/js/2.122b209e.chunk.js.LICENSE.txt": "/taskmanagerRedux/static/js/2.122b209e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cea363b.js",
+    "static/js/2.122b209e.chunk.js",
+    "static/css/main.75c3000b.chunk.css",
+    "static/js/main.ab61817d.chunk.js"
+  ]
+}

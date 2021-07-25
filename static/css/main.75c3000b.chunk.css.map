@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MACC,WACD,CACA,OACC,eACD,CACA,YACC,iBACD","file":"main.75c3000b.chunk.css","sourcesContent":[".m-50 {\r\n\tmargin: 50px;\r\n}\r\n.mt-15 {\r\n\tmargin-top: 15px;\r\n}\r\n.text-right {\r\n\tmargin-left: 250px;\r\n}"]}
